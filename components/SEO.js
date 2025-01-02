@@ -118,10 +118,7 @@ const SEO = props => {
         />
       )}
       {SEO_BAIDU_SITE_VERIFICATION && (
-        <meta
-          name='baidu-site-verification'
-          content={SEO_BAIDU_SITE_VERIFICATION}
-        />
+        <meta name="baidu-site-verification" content="codeva-2D23JpEjuA" />
       )}
       <meta name='keywords' content={keywords} />
       <meta name='description' content={description} />
